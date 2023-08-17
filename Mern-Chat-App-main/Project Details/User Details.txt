@@ -1,0 +1,27 @@
+API : Cloudinary Api
+DATABASE:Mongodb Atlas
+
+User Details:
+
+1.name:Angel(cardiology)
+pW:password1
+email:angeld@example.com
+
+2.name:Sam Anderson(ophthalamology)
+pW:password2
+email:sam@example.com
+
+
+3.name:Tammy(Gastroenterologists)
+pW:password3
+email:tam@example.com
+
+4.name:Helton Rio(neurologist)
+    pW:password4
+email:rio@example.com
+
+
+
+5.name:Kane Williamson(Gastroenterologists)
+pW:password5
+email:kane@example.com
